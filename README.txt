@@ -6,7 +6,7 @@ A simple and responsive shopping product page built with HTML, CSS, and JavaScri
 
 Check out the live demo here:  
 [Your Live Demo URL](https://basic-shopping-product-page.vercel.app)  
-*(Replace the URL above with your actual deployment URL)*
+
 
 ## Features
 
